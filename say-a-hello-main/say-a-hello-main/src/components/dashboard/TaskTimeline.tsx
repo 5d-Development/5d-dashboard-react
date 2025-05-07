@@ -208,7 +208,7 @@ const TaskTimeline: React.FC<TaskTimelineProps> = ({ department, employee, curre
                                 height: `${heightInMinutes}px`,
                                 minHeight: '40px',
                                 maxHeight: '200px',
-                                minWidth: '250px',
+                                minWidth: '200px',
                               }}
                             >
                               <TaskCard
